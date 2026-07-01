@@ -1,5 +1,3 @@
-
-
 # 🚴 Bicycle Crash Risk & Infrastructure Safety Analysis
 
 This project analyzes bicycle crash risk using machine learning and spatial data, with a focus on understanding how infrastructure and road characteristics influence safety. It also simulates infrastructure improvements to evaluate their potential impact on reducing crash risk.
